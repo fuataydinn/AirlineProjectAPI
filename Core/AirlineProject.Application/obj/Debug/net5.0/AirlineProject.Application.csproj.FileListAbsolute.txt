@@ -1,0 +1,15 @@
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\bin\Debug\net5.0\AirlineProject.Application.deps.json
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\bin\Debug\net5.0\AirlineProject.Application.dll
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\bin\Debug\net5.0\ref\AirlineProject.Application.dll
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\bin\Debug\net5.0\AirlineProject.Application.pdb
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\bin\Debug\net5.0\AirlineProject.Domain.dll
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\bin\Debug\net5.0\AirlineProject.Domain.pdb
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\obj\Debug\net5.0\AirlineProject.Application.csproj.AssemblyReference.cache
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\obj\Debug\net5.0\AirlineProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\obj\Debug\net5.0\AirlineProject.Application.AssemblyInfoInputs.cache
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\obj\Debug\net5.0\AirlineProject.Application.AssemblyInfo.cs
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\obj\Debug\net5.0\AirlineProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\obj\Debug\net5.0\AirlineProject.Application.csproj.CopyComplete
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\obj\Debug\net5.0\AirlineProject.Application.dll
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\obj\Debug\net5.0\ref\AirlineProject.Application.dll
+C:\Users\faydn\source\repos\AirlineProject\Core\AirlineProject.Application\obj\Debug\net5.0\AirlineProject.Application.pdb

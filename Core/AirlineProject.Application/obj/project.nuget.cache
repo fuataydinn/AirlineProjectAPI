@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/S5Y+6YjOvtosQCu2eiMweQeRgRRaWlkzQl4WxG9n3LU1wU83OI2HwxHXIHGKS/nwlTwB3cx1m3XsmvExbvPMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faydn\\source\\repos\\AirlineProject\\Core\\AirlineProject.Application\\AirlineProject.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faydn\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\faydn\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\faydn\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\faydn\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\faydn\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\faydn\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\faydn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
